@@ -26,6 +26,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "13c0154ca4959e591bd6100a685af83d38bb0f60f8bea53dde651aa86b653f8d"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
