@@ -36,11 +36,6 @@ hash = "d9ab6c39c1422c4beca4fb5f2c3afb3d7855423e0af1ae847f3bf3bc326bf31b"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "33166f21b2835b621ade5e4e28f560ce325b216fab0d4337f27d2f412addcdaf"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
@@ -331,6 +326,11 @@ hash = "1635aa0e0df9d27f22de030955c8690061970abe26e3e913c4d950227aba4916"
 metafile = true
 
 [[files]]
+file = "mods/hev-suit-voice-system.pw.toml"
+hash = "4ac5b8cb3e3d1cd14a63803e7c6cbd676b9e4d9203091ed0896b03f22377136f"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "d8f39538397a497028ffe6812ecdfa65d36dce03b39de9bbd64599d955adfdea"
 metafile = true
@@ -513,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
+file = "mods/neepmeat.pw.toml"
+hash = "20057ccbb2a12f6261cd2e450f96b76bf337bb271a0d09a6d3f13bdd065be34f"
 metafile = true
 
 [[files]]

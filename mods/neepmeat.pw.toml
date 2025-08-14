@@ -1,0 +1,13 @@
+name = "NEEPMeat"
+filename = "neepmeat-0.12.1-alpha+connector+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hagcl1FT/versions/XOhcAoKl/neepmeat-0.12.1-alpha%2Bconnector%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "03b323f84c67d412ed972b86048c44a82cd9cd93d3f06fcdc8e9098ebc8e6029ad6d53479cb6ee339d0ae29f1534ba9d9963a30e495bc88dbed1a818e163cd29"
+
+[update]
+[update.modrinth]
+mod-id = "Hagcl1FT"
+version = "XOhcAoKl"

@@ -1,0 +1,18 @@
+name = "Half-Life HEV Suit Voice System"
+filename = "hev_suit-0.6.1.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+
+
+[download]
+url = "https://cdn.modrinth.com/data/c5LYm3hR/versions/Ei4vBtiL/hev_suit-0.6.1.jar"
+hash-format = "sha512"
+hash = "3d20cdff74d011625f0fecc38d6ae95426d3b4ec20a6d793370127e38edcfbb6f7b94a8d10a044aa9818a91033b575e25a3a9b00d3e738e5f7bd6fe0f137a3be"
+
+[update]
+[update.modrinth]
+mod-id = "c5LYm3hR"
+version = "Ei4vBtiL"
