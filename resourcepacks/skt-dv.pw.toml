@@ -2,6 +2,10 @@ name = "SKT - Desaturated Vanilla"
 filename = "skt-dv v0.1.zip"
 side = "client"
 
+[option]
+optional = true
+default = false
+
 [download]
 url = "https://cdn.modrinth.com/data/KXqIBqWl/versions/Qmkurpr1/skt-dv%20v0.1.zip"
 hash-format = "sha512"

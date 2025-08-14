@@ -2,6 +2,11 @@ name = "Half-Mine"
 filename = "Half-Mine.zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "adds half life footsteps and mob sounds"
+
 [download]
 url = "https://cdn.modrinth.com/data/o4UrP44D/versions/FsRDxk8I/Half-Mine.zip"
 hash-format = "sha512"

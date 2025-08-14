@@ -2,6 +2,11 @@ name = "Dungeons and Taverns"
 filename = "dungeons-and-taverns-3.0.3.f.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "for use in singleplayer"
+
 [download]
 url = "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar"
 hash-format = "sha512"
