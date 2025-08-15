@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/minecraft/sounds.json"
+hash = "e7bbb8205030f349d7c27c36e6cf99816e968a64039bf1c560b6e4e872cc89af"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/functions/tick.json"
+hash = "9e2a26746e6944d4572d7fea357ebbbc2212966f04b66d66dbee54ccc122ebc8"
+
+[[files]]
+file = "kubejs/data/thebeast/functions/metal_pipe.mcfunction"
+hash = "f5207e9cb07094f3302716a787a9156fddfa0e20a3b94540d0beb78660668819"
+
+[[files]]
+file = "kubejs/data/thebeast/functions/metal_pipe_sound.mcfunction"
+hash = "252f216ccb5691b9fae1008f960ae8b89a673a1b950e8c444751f4bc7ae0bf82"
+
+[[files]]
 file = "mods/abyssal-decor.pw.toml"
 hash = "424b7c3c727c6e4f9d225eb04d74e6fb25a1b440a11da38cff8fe86668fbdf38"
 metafile = true
