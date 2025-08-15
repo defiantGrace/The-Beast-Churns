@@ -1,0 +1,13 @@
+name = "The Ducks"
+filename = "theducksmod-forge-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mW7jD34A/versions/nRCEtiVk/theducksmod-forge-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "95d6fe305f4383470592292f6d0e45ee9483e6a6620e2045286f349928d88380fde66590cd7686ec8682759102350075ad7e5fd209a6c383986acf34b952fc0f"
+
+[update]
+[update.modrinth]
+mod-id = "mW7jD34A"
+version = "nRCEtiVk"

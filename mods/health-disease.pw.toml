@@ -1,0 +1,13 @@
+name = "Health&disease"
+filename = "health_and_disease-1.4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cffb8651a8d5ebf3773d3831a9bd68381b636ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6291844
+project-id = 915791

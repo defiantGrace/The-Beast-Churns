@@ -1,0 +1,13 @@
+name = "BioButcher's Mania"
+filename = "biobutchers-delight-2.02.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tbxlThC8/versions/ck7pHeJL/biobutchers-delight-2.02.jar"
+hash-format = "sha512"
+hash = "5338ba8ff0e57cfbfd79c671923d04c61d7299d4413405289d36e62139885218abd651398b68a3c969282ca069e7ea802efb92e2d1e5a1d7cfa886bf5102dedc"
+
+[update]
+[update.modrinth]
+mod-id = "tbxlThC8"
+version = "ck7pHeJL"

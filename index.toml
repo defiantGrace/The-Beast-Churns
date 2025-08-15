@@ -51,6 +51,11 @@ hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
 
 [[files]]
+file = "mods/biobutchers-delight.pw.toml"
+hash = "7b0ffdea6d001123110f4566b58b66712ba6bdbaea31acffcdcca07ee400f6b5"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "9645745c65db24bd944b638a3672c20b6af3564e80b32110968ade12134f1119"
 metafile = true
@@ -91,6 +96,11 @@ hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -123,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/countereds-settlement-roads.pw.toml"
+hash = "7d53860ac6665e490f417ea5a4ef646c93c7142c3422b4916f296c0574afabb0"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "3731633e303c064cccb4d9864ed6729227b2f646c620c98ccac8dff9d9f7c9fb"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -218,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-mob-spawners.pw.toml"
 hash = "f1017ce0648a0be00d50671545989e64750db4931e040e6ac0cdb16ca257bedf"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-graves-fork.pw.toml"
+hash = "4a362c02618c1661f08f0aedad55ae43cfbb9fb00862a347c27007031899a1a1"
 metafile = true
 
 [[files]]
@@ -328,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "1635aa0e0df9d27f22de030955c8690061970abe26e3e913c4d950227aba4916"
+metafile = true
+
+[[files]]
+file = "mods/health-disease.pw.toml"
+hash = "c951faae43303c0cb680d48dd9f3d3adb9693f152967a83435401974e3691008"
 metafile = true
 
 [[files]]
@@ -526,8 +561,18 @@ hash = "20057ccbb2a12f6261cd2e450f96b76bf337bb271a0d09a6d3f13bdd065be34f"
 metafile = true
 
 [[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "ad504797876b4de1597c31ab0bae5a0133fd3329cea7bda271c3b7dedb57a099"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
@@ -556,6 +601,11 @@ hash = "fd180c540dd4d1ee0b3dab2000218aaa8012ebeea79114f6c7630157dc086187"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
 file = "mods/peculiar-predators.pw.toml"
 hash = "718b0a180d904973de5ec13709ac3f2d7fb427e4f38eae5c6022df6349d4bb94"
 metafile = true
@@ -581,13 +631,33 @@ hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "b613f3c2e55bdf5562585e98b03b1513ae26a003b32a19cd2fce076e293d7652"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
 file = "mods/raws-visual-keybinder.pw.toml"
 hash = "5056029a24b67af27712ca96118baeed31335400234f7d142ced24f9681a6e8a"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "0f190b57197fa20489ec02641b9a594c574e9edb3960e54adb433e97b1b089d0"
 metafile = true
 
 [[files]]
@@ -626,6 +696,11 @@ hash = "fe2fccdae540a4eb5629b6a77e640972307d38e7e5f41848129f87741e5aff80"
 metafile = true
 
 [[files]]
+file = "mods/shrink.pw.toml"
+hash = "0b78a3e7d93a1325cfe21e12e6d3e3e2c2fb005d6c74c7a4b249b1a3da5e93a3"
+metafile = true
+
+[[files]]
 file = "mods/similar-prehistory.pw.toml"
 hash = "17e4051e45ac72cfffa938ae19f1df88651764c7b7c1dade5cc11d2d48221b11"
 metafile = true
@@ -648,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "a291a8d50f30843e49d92db1cde7734327e809b52d24183eecff8c165eed82a6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
 metafile = true
 
 [[files]]
@@ -701,8 +781,8 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "199087fa3afcccbe6f328ee16f58ab0785bcee13291ebc197f3245c440318e08"
+file = "mods/the-ducks.pw.toml"
+hash = "bb7a092645445aa8fe65ef4e7465d0fbfa12e8f712de0c3ffbb65fd54211b3d6"
 metafile = true
 
 [[files]]
@@ -723,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/unusual-prehistory-forge.pw.toml"
 hash = "913cb906d37c4911943a4ae3e684bcc432926681736c12b01b1b61be9546dfa9"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "e493847ee9de43f251d5777198c92f475fc52a96d1ab40cf5a405ed40a50334f"
 metafile = true
 
 [[files]]
