@@ -5,6 +5,14 @@ file = "kubejs/assets/minecraft/sounds.json"
 hash = "e7bbb8205030f349d7c27c36e6cf99816e968a64039bf1c560b6e4e872cc89af"
 
 [[files]]
+file = "kubejs/assets/minecraft/sounds/custom/metal_pipe_close.ogg"
+hash = "54c4d5bfa65ffeff5e900a6a9ffc594a4f592c5811178255830f5f1b346e0177"
+
+[[files]]
+file = "kubejs/assets/minecraft/sounds/custom/metal_pipe_far.ogg"
+hash = "a97e44bfbe6f08fe5aedb36541a18c8719d59483d9a987b352d2f9af4ef6a6cc"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/functions/tick.json"
 hash = "9e2a26746e6944d4572d7fea357ebbbc2212966f04b66d66dbee54ccc122ebc8"
 
