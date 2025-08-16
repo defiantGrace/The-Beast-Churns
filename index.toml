@@ -25,6 +25,10 @@ file = "kubejs/data/thebeast/functions/metal_pipe_sound.mcfunction"
 hash = "252f216ccb5691b9fae1008f960ae8b89a673a1b950e8c444751f4bc7ae0bf82"
 
 [[files]]
+file = "kubejs/server_scripts/superb_warfare.js"
+hash = "b3f8ca9af6262d125d7074cd3f54ebea8957bcdf20af8e66be7ea37ebd79b072"
+
+[[files]]
 file = "mods/abyssal-decor.pw.toml"
 hash = "424b7c3c727c6e4f9d225eb04d74e6fb25a1b440a11da38cff8fe86668fbdf38"
 metafile = true
@@ -47,6 +51,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "bc22986b3c549dfe635d227a8ccd4381232d24c6c8b5a74de2c1e26347122019"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+hash = "a487ed4785c4bbc4a26a95e956eedb890081e3d3fe7587c474c2cbdd7569ccb2"
 metafile = true
 
 [[files]]
@@ -85,6 +99,11 @@ hash = "9645745c65db24bd944b638a3672c20b6af3564e80b32110968ade12134f1119"
 metafile = true
 
 [[files]]
+file = "mods/blastcraft.pw.toml"
+hash = "5f82a2ed5ef8746447e63bebaa9da750abe58f370e86725937a3056ef7352ca6"
+metafile = true
+
+[[files]]
 file = "mods/blocks-you-need.pw.toml"
 hash = "3c9e92f4f4fae1e19e283e12d1400395b75c6dadbcbc228342322eb3c4efb2da"
 metafile = true
@@ -102,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "ef414a476aeee47ed2054e5c9d82d666754efb3be7d5c08b40e0368df698f277"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
 metafile = true
 
 [[files]]
@@ -240,6 +264,11 @@ hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "d0a538e95e96293dfca134a01d790bfb012554db5bcf4f48d3155b1c745f908d"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -342,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "41e24ed037adefe00c62d1935f428cc71cb733a04e8012223d66004e52f5ef9d"
 metafile = true
 
 [[files]]
@@ -550,6 +584,11 @@ hash = "14635472ed19cead165190388a628cbef383ffaefd4c7a85998f0b87589451bc"
 metafile = true
 
 [[files]]
+file = "mods/modular-force-field-systems.pw.toml"
+hash = "d7f47f552eac9fa831cfd582697472a787be930f9a0f5864815593a2c45cc742"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "6e751d439bd79d7ea28edd68c4bd75a13ed0696908a470b73699cd887a9080e2"
 metafile = true
@@ -597,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "82caa2fc60ead544164627133b2301e3aed453f76b4aa1184b9d671ffedf0350"
 metafile = true
 
 [[files]]
@@ -837,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "8457790fd142ec33101b2a4e3b1a34062fb24199b10bae9f8d46e672209ff69d"
 metafile = true
 
 [[files]]
