@@ -566,13 +566,13 @@ hash = "06d89bbcca9f454369e193c6f042a8931d40d57c53ae9aff2f7a25c106c70f5d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
+file = "mods/immersive-engineering.pw.toml"
+hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
 metafile = true
 
 [[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
