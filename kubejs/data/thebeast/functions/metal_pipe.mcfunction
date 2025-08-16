@@ -1,1 +1,0 @@
-execute as @e[type=item,tag=!clunked,nbt={OnGround:1b,Item: {id: "immersiveengineering:stick_steel"}}] at @s run function thebeast:metal_pipe_sound

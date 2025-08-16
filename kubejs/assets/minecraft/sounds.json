@@ -1,6 +1,0 @@
-{
-
-"custom.metal_pipe_close": { "category": "master", "sounds": [ "custom/metal_pipe_close" ] },
-"custom.metal_pipe_far": { "category": "master", "sounds": [ "custom/metal_pipe_far" ] }
-
-}
