@@ -591,6 +591,11 @@ hash = "99e13d1cc2e30544f75eaf1bc8c761765df3c4edc90e331da67100c68ea692c9"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "48aac03975f675a5eabaccb4389eb1328444f97905756fdafff1be2a870ea03f"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -1034,6 +1044,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "135a0b55c4511bac261a5540e83ac4176133f20d7584265f16e524e6263d5888"
 
 [[files]]
 file = "resourcepacks/blues-better-skeletons.pw.toml"
