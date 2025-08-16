@@ -1,6 +1,6 @@
 name = "Pekit's Retro Computer Anvil!"
 filename = "Pekit's Retro Anvil! [Dark-Mode].zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

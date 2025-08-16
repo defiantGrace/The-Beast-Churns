@@ -1086,12 +1086,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pekits-retro-computer-anvil.pw.toml"
-hash = "47fd4c8d0a1fe8acc798cace4987f6e163a77e4f8601803b5e09bbfe7526de3a"
+hash = "33e43418787ab203ffe37da06ae30b7672019b0495dd0fb28635c91e0ab8eb8c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/pekits-totem-ti-84.pw.toml"
-hash = "ca66cd239eb88bb00a075d0a20e74c54cb5c79f19745bc27cdb1d891b4d7994a"
+hash = "0799a74cd3966849a652800795f2010019a152fb6b283c2aa8009f9ec5c2650f"
 metafile = true
 
 [[files]]
