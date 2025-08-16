@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
+hash = "ecfb77804752b2b16ad9cf8ab9e78fa7c7dd069c3d5c9d4f75dc178ef6974cc9"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/raws-visual-keybinder.pw.toml"
-hash = "5056029a24b67af27712ca96118baeed31335400234f7d142ced24f9681a6e8a"
+hash = "1d166baf24f233e3e208aea89773b2f61c8e65228ca9681d323ed2ef431b0593"
 metafile = true
 
 [[files]]
