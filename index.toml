@@ -186,6 +186,11 @@ hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "d9ab6c39c1422c4beca4fb5f2c3afb3d7855423e0af1ae847f3bf3bc326bf31b"
 metafile = true
@@ -286,6 +291,11 @@ hash = "4143e4086ee51d4edd2ced1a898b2fafd9a9cfb50367f7c44cec1f0cb7b0e21c"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -308,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -928,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/spiffyhud.pw.toml"
 hash = "601ab6de1a8f79a7133f8624f0cf5fbd5ef73a660e6156f180d248c8e64eeff6"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "8f907c02b348e25358cf2bca42e9105b9b6103f670bf36432da6752e2c8806db"
 metafile = true
 
 [[files]]
