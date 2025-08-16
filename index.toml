@@ -1,32 +1,144 @@
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/minecraft/sounds.json"
-hash = "e7bbb8205030f349d7c27c36e6cf99816e968a64039bf1c560b6e4e872cc89af"
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "kubejs/assets/minecraft/sounds/custom/metal_pipe_close.ogg"
-hash = "54c4d5bfa65ffeff5e900a6a9ffc594a4f592c5811178255830f5f1b346e0177"
+file = "config/ModernUI/client.toml"
+hash = "8ed136263aa6f3091844c2fa119b7a9d9326c3c4c9296cbc8d08565b7b812837"
 
 [[files]]
-file = "kubejs/assets/minecraft/sounds/custom/metal_pipe_far.ogg"
-hash = "a97e44bfbe6f08fe5aedb36541a18c8719d59483d9a987b352d2f9af4ef6a6cc"
+file = "config/ModernUI/common.toml"
+hash = "3f3423b73ede42901495373c756f0b15e0e3f56c369873219176de1d621724fa"
 
 [[files]]
-file = "kubejs/data/minecraft/tags/functions/tick.json"
-hash = "9e2a26746e6944d4572d7fea357ebbbc2212966f04b66d66dbee54ccc122ebc8"
+file = "config/ModernUI/text.toml"
+hash = "8c9a3a9332c5f5c12b36c7e00821c09195ec046547059cb629ba0a28b669297c"
 
 [[files]]
-file = "kubejs/data/thebeast/functions/metal_pipe.mcfunction"
-hash = "f5207e9cb07094f3302716a787a9156fddfa0e20a3b94540d0beb78660668819"
+file = "config/Weather2/Debug.toml"
+hash = "6fc9671cbe29b2cfe41347da33cd4a2b59377be3ba9b05660efe399ca496f918"
 
 [[files]]
-file = "kubejs/data/thebeast/functions/metal_pipe_sound.mcfunction"
-hash = "252f216ccb5691b9fae1008f960ae8b89a673a1b950e8c444751f4bc7ae0bf82"
+file = "config/Weather2/Misc.toml"
+hash = "6a26fb98c17a5671a8bfb112d570112c08709b18a2b6501b5014886e89fb15f7"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "52547a402930c9468882a34a7625ceeca3f8c7b8d27288bd9389dbdc45e33d4e"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "955c746dbc7e3181b960e4cf62834d331d3bb076b706f55e98178ab213cb6c58"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "41d666b8010774b08a4cef15ed5a4a39bc14273c4718ce184c05ba9d0e2a3169"
+
+[[files]]
+file = "config/Weather2/Sound.toml"
+hash = "800dfc72487d78fb8dffb321abe84f1f5e2f95544b7034218f19287a9f997f80"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "4077f99212c5173f47c1320622b226431af47dbf8fed2c177a07ce12b71ec7ed"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "027b3f8e58474b3b28a0f24a3d85f9800f75c096299697a75fdb50c17b42fe5b"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "d6c493146b8e461ddfebfc60c91241a85bab6565117c7f609e33671c8b04a911"
+
+[[files]]
+file = "config/fancymenu/assets/rock.png"
+hash = "b3aaacc6f891a29b66779c08716e5e05fc0c51d050d17ec0a6375d9dff4c270a"
+
+[[files]]
+file = "config/fancymenu/assets/the_rock.ogg"
+hash = "bdd784337a332f563e8c5bbc354d427234ea8a17c9402210f64e8d60b36d482b"
+
+[[files]]
+file = "config/fancymenu/assets/the_valve.gif"
+hash = "083479c80bd12d62d129fc805fa11a561d803863a2b8cc117b5bd03ffe2d01f6"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "66ebe648cb7229bddc978437076035c83c81ac6834f25b1fd7d1dae5f75e9c0f"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "987a7327bbe9a31a8b4b12addb633c34a5ef39a98b9b3d9d669b1cc7891eaabf"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "410509fb1a8524c2be9ecb83b84fb055f0ff2d21c17d8804ec3ce025ff8e9a1e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "9862375c7812fc68528dc12967d506d34d22067dec19d3780441db855840e613"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "265054d2c0adc41a3bdfa80d961621ddef50eca521211706efeca053ebf60c96"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/parcool-client.toml"
+hash = "b2b9537f753ad6b61341dd8e458b56561f1a7650cc2b24cc3f863ec3da758a07"
+
+[[files]]
+file = "config/sporeconfig.toml"
+hash = "3d0dc526156fa656d81bcd0f8966c3301be451c048ef016c11b07cf61fc872f6"
+
+[[files]]
+file = "config/sporedata.toml"
+hash = "ad6be3206bf94d6843f51f8110b0765b99f40e5c9c06eadfeb96b8fc2143b86d"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "2c12fae4c4fee2ab2c83e5987352a281bb1eab4740d8acf23f4201b4a1d548e8"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "dcb1fab4758eb52055bdcf36323f15eb0cb202a9dc2249997576ac9c28c509c6"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "cb4f2f32f304f0bf110dacc5451a4dcc06fe29d0e7a7b9944383f7812022af28"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "d499358c79c6d48c0ebd2ab23961076171053c0998ec94209c05bb576f6e9abd"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "aa062b06785fcb3b5ad68fcb9ccc49ddd0c11f503bc02e44db799bb00b182cd4"
 
 [[files]]
 file = "kubejs/server_scripts/superb_warfare.js"
-hash = "b3f8ca9af6262d125d7074cd3f54ebea8957bcdf20af8e66be7ea37ebd79b072"
+hash = "658a56962f75179f4d35ede0fccde9714637e349b4d5d45dcf0fbb067da1fa63"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"

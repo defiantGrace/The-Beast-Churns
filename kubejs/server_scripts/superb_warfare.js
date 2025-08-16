@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
 //remove relevant recipes
     event.remove({ output: 'superbwarfare:sentinel'})
     event.remove({ output: 'superbwarfare:devotion'})
-    event.remove({ output: 'superbwarfare:aurelia_scepter'})
+    event.remove({ output: 'superbwarfare:aurelia_sceptre'})
     event.remove({ output: 'superbwarfare:secondary_cataclysm'})
     event.remove({ id: 'superbwarfare:annihilator_crafting' })
     event.remove({ id: 'superbwarfare:prism_tank_crafting' })
@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
             'superbwarfare:steel_action',
             'superbwarfare:steel_trigger',
             'superbwarfare:steel_spring',
-            '2x pneumaticraft:plastic'
+            '2x pneumaticcraft:plastic'
         ]
     )
 
@@ -31,7 +31,7 @@ ServerEvents.recipes(event => {
             'superbwarfare:cemented_carbide_action',
             'superbwarfare:cemented_carbide_trigger',
             'superbwarfare:cemented_carbide_spring',
-            '2x pneumaticraft:plastic',
+            '2x pneumaticcraft:plastic',
             '2x immersiveengineering:plate_duroplast'
         ]
     )
@@ -43,7 +43,7 @@ ServerEvents.recipes(event => {
             'superbwarfare:netherite_action',
             'superbwarfare:netherite_trigger',
             'superbwarfare:netherite_spring',
-            '2x pneumaticraft:plastic',
+            '2x pneumaticcraft:plastic',
             '2x immersiveengineering:plate_duroplast',
             'crusty_chunks:tech_component'
         ]
