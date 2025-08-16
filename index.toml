@@ -791,6 +791,11 @@ hash = "59bcc724e7b927fbba1a1366657dfc9457dd4784661b585844b41b643e83b784"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "6228ae1e24e5f876d3feff6b45762a20fc496f1c3f7e48972d45446e42d095bc"
+metafile = true
+
+[[files]]
 file = "mods/parcool.pw.toml"
 hash = "2438da2d375b218f4a5c02345e77e96ed759a792092d023982add05e632951a0"
 metafile = true
