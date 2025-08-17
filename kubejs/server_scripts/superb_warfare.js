@@ -1,10 +1,10 @@
 ServerEvents.recipes(event => {
 
 //remove relevant recipes
-    event.remove({ output: 'superbwarfare:sentinel'})
-    event.remove({ output: 'superbwarfare:devotion'})
-    event.remove({ output: 'superbwarfare:aurelia_sceptre'})
-    event.remove({ output: 'superbwarfare:secondary_cataclysm'})
+    event.remove({ output: 'superbwarfare:sentinel' })
+    event.remove({ output: 'superbwarfare:devotion' })
+    event.remove({ output: 'superbwarfare:aurelia_sceptre' })
+    event.remove({ output: 'superbwarfare:secondary_cataclysm' })
     event.remove({ id: 'superbwarfare:annihilator_crafting' })
     event.remove({ id: 'superbwarfare:prism_tank_crafting' })
     event.remove({ id: 'superbwarfare:yx_100_crafting' })
@@ -91,7 +91,7 @@ ServerEvents.recipes(event => {
 
     //aa12
     event.replaceInput (
-        {output: 'superbwarfare:aa12'},
+        {output: 'superbwarfare:aa_12'},
         'minecraft:netherite_ingot',
         'crusty_chunks:large_bored_barrel'
     )

@@ -138,7 +138,7 @@ hash = "aa062b06785fcb3b5ad68fcb9ccc49ddd0c11f503bc02e44db799bb00b182cd4"
 
 [[files]]
 file = "kubejs/server_scripts/superb_warfare.js"
-hash = "658a56962f75179f4d35ede0fccde9714637e349b4d5d45dcf0fbb067da1fa63"
+hash = "c3fd0fcca5c1a029ef40df3c53119f823fb2d611007d281140b2807eadc49bd8"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
@@ -566,13 +566,13 @@ hash = "06d89bbcca9f454369e193c6f042a8931d40d57c53ae9aff2f7a25c106c70f5d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
+file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "ab560ae0b28cf4c61544f7863a796bafef294a8724fe12f9bf6fed6d3b542c2a"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
