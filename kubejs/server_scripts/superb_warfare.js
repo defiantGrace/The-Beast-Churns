@@ -11,9 +11,8 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'superbwarfare:rare_material_pack' })
     event.remove({ output: 'superbwarfare:epic_material_pack' })
     event.remove({ output: 'superbwarfare:legendary_material_pack' })
-    event.remove({ output: "#superbwarfare:blueprint" })
-//add material packs
 
+//add material packs
     event.shapeless(
         Item.of('superbwarfare:rare_material_pack', 1),
         [
@@ -96,14 +95,4 @@ ServerEvents.recipes(event => {
         'minecraft:netherite_ingot',
         'crusty_chunks:large_bored_barrel'
     )
-
-    const bprints = Ingredient.of('#superbwarfare:blueprint').itemIds
-    bprints.forEach(prints => event.shapeless(
-        Item.of(prints, 2),
-        [
-            prints,
-            'minecraft:paper',
-            'minecraft:blue_dye'
-        ]
-    ))
 })
