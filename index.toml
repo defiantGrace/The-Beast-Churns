@@ -279,8 +279,8 @@ hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+file = "mods/chisel-chipped-integration.pw.toml"
+hash = "6e353c171e4439575b910cfcd4e1ff679411709fb68322c769bb88d353297dbb"
 metafile = true
 
 [[files]]
@@ -911,16 +911,6 @@ metafile = true
 [[files]]
 file = "mods/realistic-torches.pw.toml"
 hash = "0f190b57197fa20489ec02641b9a594c574e9edb3960e54adb433e97b1b089d0"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-chipped.pw.toml"
-hash = "7dcd9a76d74b57f0fba9444a4320dd3105fad49ec46fc4b9ad4c0f3d250abcca"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
 
 [[files]]
