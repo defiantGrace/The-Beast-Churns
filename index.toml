@@ -137,12 +137,16 @@ file = "config/subtle_effects/items.toml"
 hash = "aa062b06785fcb3b5ad68fcb9ccc49ddd0c11f503bc02e44db799bb00b182cd4"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "fba9ff4f3db26eeae213a1e83e2ba289848c76a8b5a78da554b34ad3746eac15"
+
+[[files]]
 file = "kubejs/data/immersiveengineering/recipes/crusher/ore_fluorite.json"
 hash = "b893ff5a5c7977f3ea43ced5f2690483442f36e38b06a199aaebf79bd275c4a4"
 
 [[files]]
 file = "kubejs/server_scripts/superb_warfare.js"
-hash = "e5ebf2884f267b9a2f037e7c629a3a74a0dbe3c030a58c54ce3493800dbf0ec6"
+hash = "2668e78e83842a5d372006265fe941e62cc9f1930974ce0be13fc86d607e81aa"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
@@ -165,6 +169,11 @@ hash = "fd2fdb3da53dff2cb463625ce20c7471cbd074382b3c3e8ff65834690451c912"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "c1d364fbcf6903e5957c13bd87bc276d6b08bde2690516d49d41675171b87e6c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -172,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/assembly-lines.pw.toml"
 hash = "bc22986b3c549dfe635d227a8ccd4381232d24c6c8b5a74de2c1e26347122019"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
@@ -265,6 +279,11 @@ hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
@@ -347,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "c1fb031f1a8e5212e61c9bb1825e5c467d0adca985aa70eff157caa25aaf5b28"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "7ca15ce12f8d401fd52401cc645b1f8abeae7a80d07b1c8b29a7776f171a77bd"
 metafile = true
 
 [[files]]
@@ -525,6 +549,11 @@ hash = "4256e09b6e352238cd8375278be1a88bf26a66dc22a9d4e51be41bc6c3c95385"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "4fb9f19ebe3e65cf811ffcd807d5f1d1059b976195720f46bfd87420d94b102b"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "af1270987203e41ee2ac5a293bda1f4c49d6d2d40408431d92d61a5fc3eca82b"
 metafile = true
@@ -652,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
@@ -870,6 +904,16 @@ hash = "0f190b57197fa20489ec02641b9a594c574e9edb3960e54adb433e97b1b089d0"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "7dcd9a76d74b57f0fba9444a4320dd3105fad49ec46fc4b9ad4c0f3d250abcca"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
 metafile = true
@@ -912,6 +956,16 @@ metafile = true
 [[files]]
 file = "mods/similar-prehistory.pw.toml"
 hash = "17e4051e45ac72cfffa938ae19f1df88651764c7b7c1dade5cc11d2d48221b11"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "60a3b1aa962b013468fbaf732b7b7e5e04734ed0e8f09e7eed84b2da3e01ab0a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "30ae3e1cc1c6e3f09b29fc3a61fa8b8683ec7d5d31f4b234a27d58a99accbb20"
 metafile = true
 
 [[files]]
@@ -977,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f90d3bfdc0ce14a672316efc43359d2b20dc9b834c1c88cdc199bb14d49140b7"
 metafile = true
 
 [[files]]
