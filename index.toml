@@ -799,6 +799,11 @@ hash = "20057ccbb2a12f6261cd2e450f96b76bf337bb271a0d09a6d3f13bdd065be34f"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
+metafile = true
+
+[[files]]
 file = "mods/nether-portal-spread.pw.toml"
 hash = "ad504797876b4de1597c31ab0bae5a0133fd3329cea7bda271c3b7dedb57a099"
 metafile = true
