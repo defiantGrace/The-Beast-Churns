@@ -138,7 +138,7 @@ hash = "aa062b06785fcb3b5ad68fcb9ccc49ddd0c11f503bc02e44db799bb00b182cd4"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/crusher/ore_fluorite.json"
-hash = "452bd5ae46c582d7074aeb652078bf5910ed4167c831c02bfb6ee3a2f82034ff"
+hash = "b893ff5a5c7977f3ea43ced5f2690483442f36e38b06a199aaebf79bd275c4a4"
 
 [[files]]
 file = "kubejs/server_scripts/superb_warfare.js"
