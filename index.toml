@@ -959,16 +959,6 @@ hash = "17e4051e45ac72cfffa938ae19f1df88651764c7b7c1dade5cc11d2d48221b11"
 metafile = true
 
 [[files]]
-file = "mods/simple-radio.pw.toml"
-hash = "60a3b1aa962b013468fbaf732b7b7e5e04734ed0e8f09e7eed84b2da3e01ab0a"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "30ae3e1cc1c6e3f09b29fc3a61fa8b8683ec7d5d31f4b234a27d58a99accbb20"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
