@@ -146,7 +146,7 @@ hash = "b893ff5a5c7977f3ea43ced5f2690483442f36e38b06a199aaebf79bd275c4a4"
 
 [[files]]
 file = "kubejs/server_scripts/superb_warfare.js"
-hash = "2668e78e83842a5d372006265fe941e62cc9f1930974ce0be13fc86d607e81aa"
+hash = "e5ebf2884f267b9a2f037e7c629a3a74a0dbe3c030a58c54ce3493800dbf0ec6"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
@@ -466,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
@@ -956,6 +961,16 @@ metafile = true
 [[files]]
 file = "mods/similar-prehistory.pw.toml"
 hash = "17e4051e45ac72cfffa938ae19f1df88651764c7b7c1dade5cc11d2d48221b11"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "60a3b1aa962b013468fbaf732b7b7e5e04734ed0e8f09e7eed84b2da3e01ab0a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "30ae3e1cc1c6e3f09b29fc3a61fa8b8683ec7d5d31f4b234a27d58a99accbb20"
 metafile = true
 
 [[files]]
